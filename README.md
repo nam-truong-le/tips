@@ -12,3 +12,7 @@
 ## n Different Colors
 
 * <http://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/>
+
+## d3 datum & data
+
+* <https://bost.ocks.org/mike/selection/#data>
