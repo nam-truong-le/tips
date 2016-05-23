@@ -16,3 +16,8 @@
 ## d3 datum & data
 
 * <https://bost.ocks.org/mike/selection/#data>
+
+
+## SVG 1.1 -> SVG 2 Changes
+
+* <https://www.w3.org/TR/SVG2/changes.html>
