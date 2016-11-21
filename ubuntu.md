@@ -12,3 +12,6 @@
 
 # SSH Key
 * <https://help.ubuntu.com/community/SSH/OpenSSH/Keys>
+* Show ssh fingerprint
+  * ssh-keygen -lf [PATH]
+  * ssh-keygen -E md5 -lf [PATH]
