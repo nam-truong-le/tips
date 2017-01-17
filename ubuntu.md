@@ -24,3 +24,7 @@
 # Environment Variables
 
 * <https://help.ubuntu.com/community/EnvironmentVariables>
+
+# Flatten Directory
+
+* `find [DIRECTORY] -mindepth 2 -type f -exec mv -i '{}' [DIRECTORY] ';'` (works in OSX)
