@@ -28,3 +28,9 @@
 # Flatten Directory
 
 * `find [DIRECTORY] -mindepth 2 -type f -exec mv -i '{}' [DIRECTORY] ';'` (works in OSX)
+
+## Show Disk Usage
+
+```bash
+df -h --total
+```
