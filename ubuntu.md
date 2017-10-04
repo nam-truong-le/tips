@@ -34,3 +34,11 @@
 ```bash
 df -h --total
 ```
+
+## Disk Partition
+
+https://help.ubuntu.com/community/InstallingANewHardDrive
+
+```bash
+sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL
+```
