@@ -4,3 +4,4 @@
 
 * httpie
 * jq
+* pipes-sh
